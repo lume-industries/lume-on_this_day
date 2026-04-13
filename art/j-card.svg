@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="224" viewBox="0 0 350 224">
+  <rect width="350" height="224" fill="#1a1a2e"/>
+  <rect x="10" y="10" width="330" height="204" rx="8" fill="none" stroke="#e94560" stroke-width="2"/>
+  <text x="175" y="100" text-anchor="middle" font-family="monospace" font-size="18" fill="#e94560">VZGLYD</text>
+  <text x="175" y="130" text-anchor="middle" font-family="monospace" font-size="14" fill="#a0a0c0">Slide Art</text>
+</svg>
